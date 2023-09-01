@@ -53,6 +53,6 @@ public class LoginController {
 		return "/Login/login2";
 	}  
 	
-/*%%%%%%%%%%%----- Above is using @Requestparam Annotation ------%%%%%%%%%%%%*/	
+/*%%%%%%%%%%%------ Above is using @Requestparam Annotation ------%%%%%%%%%%%%*/	
 		
 }
